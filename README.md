@@ -1,19 +1,21 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Welcome Page</title>
-    <link rel="stylesheet" href="styles.css">
-</head>
-<body>
-    <div class="container">
-        <h1>Hola, soy Agustín 👋</h1>
-        <img src="profile.jpg" alt="Profile Picture">
-        <p>Hi, I'm [Your Name], a Computer Technician with a passion for data science. I enjoy solving problems logically, maintaining good interpersonal relationships, and working well in teams. I'm always looking for opportunities to grow professionally and learn new tools and knowledge.</p>
-    </div>
-</body>
-</html>
+<h1 align="center">Hola, soy Agustín <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
+<div align="center">
+  
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=ROBOT&size=25&color=39FF14&background=000000&center=true&vCenter=true&width=490&lines=%3E+Welcome+to+my+GitHub+profile...!)
+
+</div>
+
+## <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25">  <b>About Me</b>
+
+- 🔭 I’m currently working in Edesur as a Commercial Operations Intern
+
+- 🏫 I'm in my last year as an Industrial Engineering Major at Universidad de Buenos Aires
+
+- 👯 I’m looking forward to collaborate on Data Analyitics projects
+
+- 💬 Ask me about anything
+
 
 <!--
 **AgustinButtini/AgustinButtini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

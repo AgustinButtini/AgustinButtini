@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working in Edesur as a Commercial Operations Intern
 
-- 🏫 I'm in my last year as an Industrial Engineering Major at Universidad de Buenos Aires
+- 🏫 I'm currently in my final year of studying Industrial Engineering at Universidad de Buenos Aires
 
 - 👯 I’m looking forward to collaborate on Data Analyitics projects
 
